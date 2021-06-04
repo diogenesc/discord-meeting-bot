@@ -1,0 +1,14 @@
+{
+  "name": "meeting-discord-bot",
+  "version": "1.0.0",
+  "description": "A bot with meeting funcionalities to your server.",
+  "main": "server.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
+  }
+}
